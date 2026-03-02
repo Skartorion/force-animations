@@ -1,0 +1,9 @@
+{
+  "name": "Force Animations",
+  "description": "Forces the render of animations by disabling animation inhibition",
+  "uuid": "force-animations@skartorion.github.com",
+  "version":1,
+  "shell-version": ["48", "49"],
+  "url": "https://github.com/Skartorion/force-animations",
+  "license": "GPL-2.0-or-later"
+}
